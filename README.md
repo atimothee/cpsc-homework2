@@ -5,12 +5,12 @@ This is my homework 2 repo.
 1. Environment: Mac OS 15.6.1
 2. Set up git
 3. Set up python virtual env
-4. Install python libraries `python -m pip install --upgrade pip
-python -m pip install --upgrade openai "openai[voice_helpers]" sounddevice numpy python-dotenv`
+4. Install python libraries ```python -m pip install --upgrade pip
+python -m pip install --upgrade openai "openai[voice_helpers]" sounddevice numpy python-dotenv```
 
 You should see the following libraries when you run `pip freeze`
 
-`annotated-types==0.7.0
+```annotated-types==0.7.0
 anyio==4.10.0
 certifi==2025.8.3
 cffi==2.0.0
@@ -31,4 +31,4 @@ sniffio==1.3.1
 sounddevice==0.5.2
 tqdm==4.67.1
 typing-inspection==0.4.1
-typing_extensions==4.15.0`
+typing_extensions==4.15.0```
